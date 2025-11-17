@@ -43,7 +43,7 @@ Note, where "cloud engineering" is used I will likely be more generic and just c
    ___Automation is a skill I wish was taught more to students as well, companies are always looking for ways to reduce repeated simple menial tasks so engineers can focus on the
    more difficult stuff.___
 
-5. What was the job that got you into cloud computing? How did you get into cloud
+4. What was the job that got you into cloud computing? How did you get into cloud
 computing, what was your career path like? What would be the first steps you
 would take to enter a career similar to yours?
 
@@ -51,7 +51,7 @@ would take to enter a career similar to yours?
    to know people, but the bottom line is you have to be good at your job to get this kind of trust, and that takes time. To get started, the first steps are to work hard and learn as much as you can. Being complacent will likely
    eventually get you replaced with someone who moves faster or by AI...___
 
-6. After your experience, what skills do you wish you'd improved at our stage or
+5. After your experience, what skills do you wish you'd improved at our stage or
 would develop knowing what you know now. IE coming out of school into the
 workforce?
 
@@ -60,7 +60,7 @@ workforce?
    This helps you understand if this is something you feel you can do every day, and gives you something to talk about in an interview if you are having
    trouble getting other kinds of experience.___
 
-7. Would you recommend students pursuing industry certifications? Or should that
+6. Would you recommend students pursuing industry certifications? Or should that
 be something to develop on a job to job basis? Such as things like Security+, or
 AWS online certifications.
 
@@ -68,7 +68,7 @@ AWS online certifications.
    experience without getting a job. It can help you to get a first round interview but I don't know that it helps much past that. That said, after you have 5-10 years of experience I think certs become more valuable
    as it demonstrates proficiency in addition to real world experience and many certs are known to be difficult to attain. Memorization can only go so far. I never think a cert is a bad thing.___
 
-8. What is your perception of the overall direction of the tech job market? Are
+7. What is your perception of the overall direction of the tech job market? Are
 students coming out less prepared mentally but, more efficient in small things
 due to AI?
 
@@ -77,7 +77,7 @@ due to AI?
    now simply means there's too much to learn and too much for your instructors to teach. I think the overall direction of tech jobs though is that they are not going away and I think there will be plenty of opprotunity - I will 
    discuss more in the AI section...___
 
-9. What would be your advice to set our applications apart in situations where
+8. What would be your advice to set our applications apart in situations where
 maybe an individual student doesn't have networking connections to leverage
 into an entry level job or an internship?
 
@@ -86,7 +86,7 @@ into an entry level job or an internship?
    for each job posting. Learn about the company, their core values, their CEO name, etc. Prove that you are legitimately interested in working there. Simple things that can go a long ways to at least getting you a first look.
    LinkedIn is an expected social media tool for job hunters, make your profile as complete as possible and be professional. Don't be afraid to pay for services to help, even a simple professional photo can go a long ways.___
 
-10. In your experience as a professor [sic], what are the most common/biggest
+9. In your experience as a professor [sic], what are the most common/biggest
 pitfalls in computer science education? Both from a student perspective and what
 professors commonly harm students by doing/not doing?
 
@@ -95,10 +95,10 @@ professors commonly harm students by doing/not doing?
    intentional as professors are also working for a living and are often overloaded due to declining enrollment. I think there's a tendancy for professors to get complacent and want to teach the same material year after year 
    instead of updating it for modern situations, but there are many that actively work against that tendancy.___
 
-11. What do you wish you had known before starting in cloud computing?
+10. What do you wish you had known before starting in cloud computing?
 
-   JDT: ___More about the cloud! :)  That said I still struggle with how core networking works in the cloud. I wish before starting out I had a better understanding of infrastructure as code and about "serverless" tech
-   such as Event Driven Architecture.___
+    JDT: ___More about the cloud! :)  That said I still struggle with how core networking works in the cloud. I wish before starting out I had a better understanding of infrastructure as code and about "serverless" tech
+    such as Event Driven Architecture.___
 
 11. What’s one piece of advice you’d give to someone just starting out in tech?
 
