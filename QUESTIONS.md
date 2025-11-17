@@ -140,7 +140,7 @@ any similar fields? How do you keep up with all the new changes in tech?
 5. What kinds of projects do you typically work on during a normal workday?
 
    JDT: ___Today, it's a lot of support work, we have an old product that is nearing the end of its life and due to staff turnover in the last year I am the SME (Subject Matter Expert) in it so I tend to have to do a lot
-   of question answering and meetings. I am trying to train up the rest of my team to share the load. When I'm coding it's largely Infrastructure as Code for the cloud using "teraform" so I am often writing small snippets of
+   of question answering and meetings. I am trying to train up the rest of my team to share the load. When I'm coding it's largely Infrastructure as Code for the cloud using `terraform` so I am often writing small snippets of
    terraform code to slightly change our cloud environment. I am also working on shared GitHub actions workflows that others use to run their own terraform but in a much more controlled environment.___
 
 6. Can you describe a real-world challenge you’ve encountered while working with
