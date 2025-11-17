@@ -141,7 +141,7 @@ any similar fields? How do you keep up with all the new changes in tech?
 
    JDT: ___Today, it's a lot of support work, we have an old product that is nearing the end of its life and due to staff turnover in the last year I am the SME (Subject Matter Expert) in it so I tend to have to do a lot
    of question answering and meetings. I am trying to train up the rest of my team to share the load. When I'm coding it's largely Infrastructure as Code for the cloud using "teraform" so I am often writing small snippets of
-   terraform code to slightly change our cloud environment. I am also working on shared github workflows that others use to run their own terraform but in a much more controlled environment.___
+   terraform code to slightly change our cloud environment. I am also working on shared GitHub actions workflows that others use to run their own terraform but in a much more controlled environment.___
 
 6. Can you describe a real-world challenge you’ve encountered while working with
 cloud infrastructure, and how you or your team solved it? What is the most
@@ -157,7 +157,7 @@ difficult scenario you have dealt with and how did you resolve it?
 
 1. How has Agentic coding changed your day-to-day work life?
 
-   JDT: ___Turned in completely upside-down. I went from never using AI to relying upon it almost daily. I find myself using claude tokens for the simplest tasks as it's eaiser to just type out "change all print commands to echo" than it is to
+   JDT: ___Turned it completely upside-down. I went from never using AI to relying upon it almost daily. I find myself using claude tokens for the simplest tasks as it's eaiser to just type out "change all print commands to echo" than it is to
    use search and replace. AI is like a drug, you get addicted quickly and you can't handle it when the drug is unavailable. When there are network issues with your LLM or when you run out of premium tokens you can feel anxious and frustrated. And you know you should cut back or quit but you just can't! :)___
 
    ___The term now for what we are seeing more seems to be "vibe coding" where you almost write no actual code yourself: "Vibe coding is a software development approach where an AI generates code from natural language prompts, allowing users to build applications through conversation rather than manual typing".
