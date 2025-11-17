@@ -19,7 +19,7 @@ Note, where "cloud engineering" is used I will likely be more generic and just c
    between gitflow and trunk-based development. Thrivent relies heavily on GitHub Actions for CICD (Continuous Integration/Continuous Delivery) and would be a more
    advanced thing to learn but will IMHO make you very appealing to an interviewer.___
 
-   ___Be sure to take advantage of your student status to enroll in (https://github.com/education)[GitHub Education]. You can get access to more AI tokens this way!___
+   ___Be sure to take advantage of your student status to enroll in [https://github.com/education](GitHub Education). You can get access to more AI tokens this way!___
 
 3. What are some not commonly taught skills you think students should learn?
    What skills do you think are most important for someone interested in building a
