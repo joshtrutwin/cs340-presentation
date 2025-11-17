@@ -189,13 +189,13 @@ evolve over time?
    JDT: ___Only having been in the field even at an introductory level the biggest change has of course been clouds marriage with AI and I expect that to continue to be the driving force behind the next years of cloud
    development. I wish I had more to offer to this question but I'm still so new to cloud myself that I have a hard time predicting. Quantum computing is getting interesting to watch out for now...___
 
-3. What do you think is the best way for someone new to start learning about cloud
+2. What do you think is the best way for someone new to start learning about cloud
 computing?
 
    JDT: ___Get a free AWS account! https://aws.amazon.com/free/ The best way to start learning about cloud computing in my opinion is to literally dive in and see what you can do. Almost every area of IT has a service in AWS.
    If you are into relational databases, you can deploy about 5 different ones in the cloud, if you want to learn more about serverless coding look into Lambda, etc.___
 
-4. What's the difference between cloud engineering and software engineering?
+3. What's the difference between cloud engineering and software engineering?
 
    JDT: ___What a great question, and one I will struggle with as I don't know in my 30 years that I have every TRUELY been a software engineer! I have had many hats but real formal software development is not really one of them, I
    view myself more as a contributor to software projects and more of an administrator/operator that happens to write code now and then. That said, software engineering to me should have a more platform agnostic viewpoint where
@@ -205,18 +205,18 @@ computing?
    which was received by a small container serivce which put a record into a database, the database triggered an event which then triggered other serverless functions to run. This took advantage of cloud native architecture and
    was much cheaper to build because it didn't require 24/7 server-based compute.___
 
-6. What are some interesting uses of cloud computing that you can think of?
+4. What are some interesting uses of cloud computing that you can think of?
 
    JDT: ___The exmaple above is a good use, cloud is great for Event Driven applications (I am specifically thinking AWS but I would be surprised if the other major vendors could not support this). Cloud is great for simply not
    having to worry about paying a facility to host your server. Cloud (AWS in particular) offers hundreds of different managed services so if you can think of something interesting there's a good chance you can do it in the cloud.
    I personally think serverless applications using what's called "Step Functions" in AWS is one of the most interesting, you can make API calls using a workflow builder and essentially create a "no-code" application.___
 
-8. Do you think most people really understand what cloud computing is?
+5. Do you think most people really understand what cloud computing is?
 
    JDT: ___No I think a lot of people struggle with cloud computing yet, even within our own org. There's a lot to learn so I guess it's expected, it's also difficult to do cloud correctly and people go back to just doing
    what they did in the data center, but using cloud resources. We are constantly trying to educate our users on how to build "for the cloud".___
 
-10. What do you think are the biggest challenges companies face when migrating
+6. What do you think are the biggest challenges companies face when migrating
 their systems to the cloud?
 
    JDT: ___Migrations are always painful. It's hard to justify the potential downtime and it's usually a difficult thing to coordinate amoung many teams. Often times what needs to be migrated is so old no one that built the original
@@ -224,20 +224,20 @@ their systems to the cloud?
    their own cloud account. We can't even do this migration because to move resources from one AWS account to another you have to destroy and re-create everything. This is a very difficult ask to put on people running applications
    in a production environment.___
 
-11. In large-scale cloud environments, how do you approach balancing cost
+7. In large-scale cloud environments, how do you approach balancing cost
 optimization with performance and reliability, especially when using autoscaling
 and distributed microservices architectures?
 
    JDT: ___At Thrivent, surprisingly cost has taken a bit of a back seat. We are just bleeding cloud cost while we try to get people to build new cloud apps hoping they can eventually recoup the cost. We are actively trying to 
    move apps out of our data centers into the cloud and dealing with the cost of that. We have a large distributed micorservices set up (OpenShift) that is used heavily but I know very little about it.___
 
-11. How do you see the shift toward hybrid and multi-cloud environments impacting
+8. How do you see the shift toward hybrid and multi-cloud environments impacting
 how companies design and manage their infrastructure over the next few years?
 
    JDT: ___I personally do not like the idea of multi-cloud (deploying to more than one major cloud vendor) and I think it is probably still reserved for all but the largest companies as I think multi-region is probably enough 
    redunancy for all but the most critical of needs. Thrivent is currently single region in AWS, and we have been ok with that though the us-east-1 outtage a few weeks ago has people questioning this.___
 
-11. What do you think companies struggle with when they decide to move to the
+9. What do you think companies struggle with when they decide to move to the
 cloud, and how can they best prepare to overcome them?
 
    JDT: ___Lack of experience and expertise is a barrier, you want to have a very solid account structure set up before you start moving to the cloud and that takes time and validation before you can get going. At a large org 
