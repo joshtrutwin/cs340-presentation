@@ -176,12 +176,21 @@ difficult scenario you have dealt with and how did you resolve it?
    engineer in the process to direct it and to know when you're getting slop. As a new CS grad I encourage you to embrace AI as it is expected and it does help but also to continue to learn outside of AI to better your understanding
    of what AI is telling you. Prompt AI to teach you when you don't understand and don't be afraid to be skeptical.___
 
-3. How does the growing use of AI affect your industry?
+   ___I still know a lot of senior engineers at Thrivent who are resistant to AI, and I know a lot of former coworkers who feel similar, one so far as saying he will NEVER use AI for
+   anything. These people, while they are good people and commendable in sticking to their beliefs, tend to become expendable when the company is given the direction to look into
+   integrating AI. As a Junior Engineer I would be surprised if you get hired for a job with this attitude over another Junior Engineer who embraces AI and attempts to learn as much
+   as they can about it.___
+
+   ___As mentioned in the presentation, a lot of people know how to prompt AI, but a lot of people don't understand how it works (myself included). I think this generation of CS
+   student can stand out by trying to understand the nuts and bolts of what happens when you type those prompts, and use that knowledge to help companies effectively use AI to
+   work with their private data. The other option for Junior Engineers is to figure out how to invent something amazing using AI and hopefully turn that into profit!___
+
+4. How does the growing use of AI affect your industry?
 
    JDT: ___For us, the financial industry is a large target for AI use, Thrivent is still trying to figure out how best to integrate AI with its private data. We have an entire team dedicated to this effort. That said I do
    not have a ton of insight into what will happen next.___
 
-4. How do you think AI is changing the way people use the cloud?
+5. How do you think AI is changing the way people use the cloud?
 
    JDT: ___I will be going to the AWS re:Invent conference in early December, one of the largest tech conferences in the world, and I expect 80% of the content to be AI focused. Cloud and AI are a good match becuase most LLMs
    interact with some kind of cloud service. All the major cloud vendors are trying to offer a front end to seamlessly integrating AI in cloud native applications in hopes you will choose them and therefore pay them more $$$.___
