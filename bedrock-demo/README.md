@@ -2,9 +2,13 @@
 
 Demo code I had hoped to show you in class...
 
-The night before this class I used AWS to deploy a Bedrock Knowledge Base which integrates with a Large Language Model (LLM) to break down a file in an S3 bucket (S3 is the Amazon "Simple Storage Service" and is similar to something like OneDrive). The file I used was "csc_340_final_project.pdf", it was not hard to deploy this knowledge base and I added the terraform that shows what the infrastructure-as-code equivalent is. This is not a complete example but shows the basic resources needed - this file is bedrock-terraform.tf.
+The night before this class I used AWS to deploy a Bedrock Knowledge Base which integrates with a Large Language Model (LLM) to break down a file in an S3 bucket (S3 is the Amazon "Simple Storage Service" and is similar to something like OneDrive). The file I used was "csc_340_final_project.pdf", it was not hard to deploy this knowledge base and I added the terraform that shows what the infrastructure-as-code equivalent is. This is not a complete example but shows the basic resources needed - this file is [bedrock-kb.tf](bedrock-kb.tf). 
 
-From there I created a Lambda function. A lambda is a function-as-a-service offering from AWS that lets you run code without having to have a CPU to run it on, you don't run it on your laptop, rather you run it in your cloud environment. Lambda was one of the premier AWS services and is a staple in the "serverless" cloud native architecture. Using a simple python script as a lambda I was able to sent a prompt to the bedrock knowledge base and ask a question about the PDF file above. You can expose a lambda function via an invocation URL so you can use a command like `curl` to invoke the lambda with a prompt - for example:
+From there I created a Lambda function. A lambda is a function-as-a-service offering from AWS that lets you run code without having to have a CPU to run it on, you don't run it on your laptop, rather you run it in your cloud environment. Lambda was one of the premier AWS services and is a staple in the "serverless" cloud native architecture. Using a simple python script (source code in [bedrock-lambda.py](bedrock-lambda.py)) as a lambda I was able to sent a prompt to the bedrock knowledge base and ask a question about the PDF file above.  The terrform for this is in the file is [bedrock-lambda.tf](bedrock-lambda.tf). 
+
+Much of this will be confusing but it's to demonstrate that to create a large AI application in AWS you don't need more than a few hundred lines of code.
+
+You can expose a lambda function via an invocation URL so you can use a command like `curl` to invoke the lambda with a prompt - for example:
 
 ```
 curl -X POST "https://6kbn6uckov2ib7eo2bwblxtjum0lelra.lambda-url.us-east-1.on.aws/" \
@@ -12,6 +16,8 @@ curl -X POST "https://6kbn6uckov2ib7eo2bwblxtjum0lelra.lambda-url.us-east-1.on.a
   -d '{"prompt": "What do you think is the hardest part of this project?"}' \
   --ssl-no-revoke
 ```
+
+Feel free to run this! (you will need to install `curl` if you do not have it, should be included on MacOS and GitBash on Windows)
 
 Here is an example of what that looks like - the output is not very readable but :
 
