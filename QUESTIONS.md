@@ -157,7 +157,8 @@ difficult scenario you have dealt with and how did you resolve it?
 
 1. How has Agentic coding changed your day-to-day work life?
 
-   JDT: ___Turned it completely upside-down. I went from never using AI to relying upon it almost daily. I find myself using claude tokens for the simplest tasks as it's eaiser to just type out "change all print commands to echo" than it is to
+   JDT: ___Turned it completely upside-down. Firstly I highly recommend everyone read this article: https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b
+  I went from never using AI to relying upon it almost daily. I find myself using claude tokens for the simplest tasks as it's eaiser to just type out "change all print commands to echo" than it is to
    use search and replace. AI is like a drug, you get addicted quickly and you can't handle it when the drug is unavailable. When there are network issues with your LLM or when you run out of premium tokens you can feel anxious and frustrated. And you know you should cut back or quit but you just can't! :)___
 
    ___The term now for what we are seeing more seems to be "vibe coding" where you almost write no actual code yourself: "Vibe coding is a software development approach where an AI generates code from natural language prompts, allowing users to build applications through conversation rather than manual typing".
@@ -169,7 +170,9 @@ difficult scenario you have dealt with and how did you resolve it?
    is yet another additional layer of abstraction in that the auther themselves was not the author but a prompter to Copilot or whatever AI tool was used. When that person is no longer with the company this kind of code will be extremely
    hard for those left to maintain and understand.___
 
-2. How has AI changed the job market for junior engineers?
+   ___One of the reasons I do not think this is as bad for Junior engineers as the doom-and-gloom people foretell is that even though senior engineers are expected to be 25% more effective at coding with chat oriented programming, what has happened is our work backlog has suddenly also increased by 50%. The bottom line is there will always be work for those willing to learn the most effective ways to program.___
+
+3. How has AI changed the job market for junior engineers?
 
    JDT: ___I think Junior Engineers are now expected to know something about AI and coding with an AI assistant, but this expection needs to be tempered with the understanding that Jr Engineers don't have the experience to know
    when AI is giving you a pile of garbage. There is a lot of fear about AI replacing engineers but I don't think that will happen, I don't think it CAN happen. Writing code can be done by AI but there still needs to be an
