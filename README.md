@@ -6,4 +6,4 @@ PowerPoint file: [SoftwareEngineering-20251111.pptx](SoftwareEngineering-2025111
 
 [Answers to Class Questions](QUSTIONS.md)
 
-[Bedrock AI Demo](bedrock-demo/READMES.md)
+[Bedrock AI Demo](bedrock-demo/README.md)
