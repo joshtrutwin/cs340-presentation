@@ -27,15 +27,26 @@ curl -s -X POST "https://6kbn6uckov2ib7eo2bwblxtjum0lelra.lambda-url.us-east-1.o
 
 Based on the provided search results, it seems that the hardest part of the project can be attributed to several factors:
 
-1. **Lack of communication within the group**: Effective communication is crucial for the success of any group project. If team members are not communicating well, it can lead to misunderstandings, missed deadlines, and a lack of cohesion in the project.
+1. **Lack of communication within the group**: Effective communication is crucial for the success of any group project.
+If team members are not communicating well, it can lead to misunderstandings, missed deadlines, and a lack of cohesion
+in the project.
 
-2. **Procrastination**: Delaying tasks until the last minute can lead to rushed work, mistakes, and increased stress. It's important to manage time effectively and avoid procrastination to ensure the quality of the project.
+2. **Procrastination**: Delaying tasks until the last minute can lead to rushed work, mistakes, and increased stress.
+It's important to manage time effectively and avoid procrastination to ensure the quality of the project.
 
-3. **Poor time management**: Allocating sufficient time for each task and adhering to the project timeline is essential. Poor time management can result in incomplete tasks, missed deadlines, and a lack of progress.
+3. **Poor time management**: Allocating sufficient time for each task and adhering to the project timeline is essential.
+Poor time management can result in incomplete tasks, missed deadlines, and a lack of progress.
 
-4. **Underestimating the time/work involved**: It's easy to underestimate the amount of work required for each task, which can lead to unrealistic expectations and a lack of preparedness. It's important to accurately estimate the time and effort needed for each task.
+4. **Underestimating the time/work involved**: It's easy to underestimate the amount of work required for each task,
+which can lead to unrealistic expectations and a lack of preparedness. It's important to accurately estimate the time
+and effort needed for each task.
 
-5. **Collaboration and shared responsibilities**: Working effectively with a team and understanding each member's role and responsibilities can be challenging. It's important to establish clear roles and responsibilities, communicate effectively, and ensure that everyone is contributing to the project.
+5. **Collaboration and shared responsibilities**: Working effectively with a team and understanding each member's
+role and responsibilities can be challenging. It's important to establish clear roles and responsibilities,
+communicate effectively, and ensure that everyone is contributing to the project.
 
-To overcome these challenges, it's essential to communicate regularly with team members, manage time effectively, accurately estimate the work required, and establish clear roles and responsibilities. Additionally, seeking help when needed and choosing a project that everyone in the group enjoys working on can contribute to a more successful and enjoyable group project experience.
-```
+To overcome these challenges, it's essential to communicate regularly with team members, manage time effectively,
+accurately estimate the work required, and establish clear roles and responsibilities. Additionally, seeking help
+when needed and choosing a project that everyone in the group enjoys working on can contribute to a more successful
+and enjoyable group project experience.
+````
